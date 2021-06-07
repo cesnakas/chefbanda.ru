@@ -1,0 +1,1 @@
+<a href="<?=SITE_DIR?>my-na-vystavkakh/shef-works-priglashaet-na-mezhdunarodnyy-forum-zavtra-k-shefa-skidka-20-na-bilety-po-nashemu-promoko/"><img src="/upload/iblock/fc5/Zavtrak_chef_2.png" alt=""></a>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d40e04a3-4a1e-4359-949b-93934b70a1f5" name="chefbanda.ru" url="http://62.109.19.204">
+        <fileTransfer rootFolder="/chefbanda.ru" host="62.109.19.204" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
